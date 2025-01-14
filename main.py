@@ -1,7 +1,7 @@
 import random
 
 def main():
-    print"Welcome to the Strange and Fun Adventure Game!"
+    print("Welcome to the Strange and Fun Adventure Game!")
     name = input("What is your name, adventurer? ")
     print(f"Greetings, {name}! Prepare to discover your unique destiny.")
     
