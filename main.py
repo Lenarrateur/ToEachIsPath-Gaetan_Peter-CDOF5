@@ -38,6 +38,41 @@ def discover_class():
             "name": "Duck Whisperer",
             "description": "A communicator with ducks, your quacky companions aid you in unexpected ways.",
             "power": "Summon a flock of ducks for chaotic assistance."
+        }, 
+        {
+            "name": "Squirrel Squire",
+            "description": "A loyal companion to the forest creatures, you have the agility and resourcefulness of a squirrel.",
+            "power": "Call upon your squirrel friends to gather information and supplies."
+        },
+        {
+            "name": "Chrono Knight",
+            "description": "A warrior with control over time. Your enemies will be caught off guard by your temporal abilities!",
+            "power": "Manipulate time to gain the upper hand in battle."
+        },
+        {
+            "name": "Illusionist",
+            "description": "A master of illusions. Your enemies will be confused and disoriented by your tricks!",
+            "power": "Create illusions to deceive and mislead opponents."
+        },
+        {
+            "name": "Pyromancer",
+            "description": "A fire-wielding mage. Your enemies will be scorched by your fiery spells!",
+            "power": "Control fire to incinerate foes."
+        },
+        {
+            "name": "Necromancer",
+            "description": "A sorcerer who commands the dead. Your enemies will be haunted by your undead minions!",
+            "power": "Raise the dead to fight for you."
+        },
+        {
+            "name": "Storm Bringer",
+            "description": "A master of storms. Your enemies will be struck down by lightning and thunder!",
+            "power": "Summon storms to unleash powerful attacks."
+        },
+        {
+            "name": "Frost Mage",
+            "description": "A wielder of ice magic. Your enemies will be frozen in their tracks!",
+            "power": "Control ice to freeze and shatter foes."
         }
     ]
 
